@@ -7,9 +7,9 @@ guhnoo core utils is a alternative to the GNU Core Utils. It can be used for a n
 You will need g++ and gcc for compiling. Install g++ and gcc with your prefered package manager.
 
 1. Clone the guhnoo core utils:
-`git clone https://github.com/fgclue/guhnoo`
+`git clone https://github.com/fgclue/guhnoo-core-utils`
 2. Create the build folder:
-`cd guhnoo && mkdir build`
+`cd guhnoo-core-utils && mkdir build`
 3. Compile the guhnoo coreutils:
 `make`
 
