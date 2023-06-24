@@ -7,3 +7,5 @@ make:
 	g++ whoami.cpp -o ./build/whoami
 	# sleep
 	g++ sleep.cpp -o ./build/sleep
+	# true
+	gcc true.c -o ./build/true
